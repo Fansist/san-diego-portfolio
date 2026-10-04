@@ -1,14 +1,14 @@
 {
-  "name": "SD Site Forge — San Diego Local Business Websites",
-  "short_name": "SD Site Forge",
-  "description": "42 custom-designed websites for San Diego local businesses",
-  "start_url": "/",
-  "display": "standalone",
-  "background_color": "#0a0a0a",
-  "theme_color": "#ff5a1f",
+  "name": "Sample sites for San Diego businesses",
+  "short_name": "SD sample sites",
+  "description": "Sample websites built unasked for San Diego businesses, by Erez.",
+  "start_url": "/san-diego-portfolio/",
+  "display": "browser",
+  "background_color": "#F2DC6F",
+  "theme_color": "#F2DC6F",
   "icons": [
     {
-      "src": "/logo.svg",
+      "src": "/san-diego-portfolio/logo.svg",
       "sizes": "any",
       "type": "image/svg+xml"
     }
